@@ -9,7 +9,7 @@ on a commandline interface after compiling run the application by using ./change
 
 $ ./change_for_customer
 
-Change owed without $ sign(e.g 8.25 or 8): 1
+Change owed without $ sign (e.g 8.25 or 8): 1
 
 Total coins needed: 4
 
